@@ -1,0 +1,8 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "html",             // Enable Emmet for .js files
+        "javascriptreact": "html",        // Enable Emmet for .jsx files
+        "typescriptreact": "html"         // Enable Emmet for .tsx files
+    },
+    "emmet.triggerExpansionOnTab": true // Optional: to enable tab expansion
+}
